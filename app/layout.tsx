@@ -10,9 +10,9 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Pep Boys - Sitecore Showcase",
-  description: "We Go Further to Help You Go Farther",
-    generator: 'v0.dev'
+  title: "TE Connectivity - Sitecore Showcase",
+  description: "EVERY CONNECTION COUNTS.",
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
